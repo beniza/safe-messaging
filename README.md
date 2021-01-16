@@ -28,7 +28,7 @@ Howver many people (I am one of them) consider it unacceptable and here are the 
 1. WhatsApp has updated their policy in the past regarding sharing the user data with its parent company Facebook. But they've always given an option to the user, whether or not allow WhatsApp. However this new update makes it mandatory for people to allow WhatsApp to share share their personal data with Facebook related services.
 1. The whole incident once again reveals that how helpless users become when a propritory firm decides to change the norms (even the fundamental ones) with which they acquire the user base. In other words, there is nothing that stops WhatsApp in making another amendment in the future that would allow them to share the private info from private chat also with other parties, including but not limited to Facebook. This is a serious concern.
 
-## How do we determine how WhatsApp or Facebook user our data, and what data is collected?
+## How do we determine how WhatsApp or Facebook use our data, and what data is collected?
 In tools such as WhatsApp, facebook, or Messenger there is always a limitation on what data is transmitted from the user's devices to the business servers owned by the service provider. This is because there is no easy, independent way to determine what is being collected/send to the servers. THe only possible ways before us is to 
 a. Trust the Privacy Policy and Terms of Use provided by the service provider
 b. Run heuristic/reverse engineering/sniffing tools determine what data is being collected and sent by the app.
